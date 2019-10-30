@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SwiftCoreExtensions-Swift.h</key>
 		<data>
-		6wNZpEJATxFWO9jb1bKbNJWa5Cg=
+		n8x5nxrapD8zHJQqzPQAXHMMBjc=
 		</data>
 		<key>Headers/SwiftCoreExtensions.h</key>
 		<data>
@@ -14,78 +14,211 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/LeA+CTNHWksoN4nxOp5rojBnio=
+		n+Gwlrnzn2lTlcQ5vZ9Rp6njUy8=
 		</data>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm.swiftdoc</key>
 		<data>
-		SGOBIXcdX2Nkx6K6GYD5YOrqjGk=
+		ywh0yvrTQx3cHqZNevZvRW2XG1k=
 		</data>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm.swiftmodule</key>
 		<data>
-		ztE5fAmnTeUD0/N2Fw9Qsz/+iqE=
+		BhhmGLFVgIJl1NNBpMUskv5OxBk=
 		</data>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		SGOBIXcdX2Nkx6K6GYD5YOrqjGk=
+		PH7e29vjpLFFc60P5D7u8+ijyJs=
 		</data>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ztE5fAmnTeUD0/N2Fw9Qsz/+iqE=
+		kqNuCV6LRgXAKLl0R1E81DrdY58=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		PH7e29vjpLFFc60P5D7u8+ijyJs=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		kqNuCV6LRgXAKLl0R1E81DrdY58=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		ywh0yvrTQx3cHqZNevZvRW2XG1k=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		BhhmGLFVgIJl1NNBpMUskv5OxBk=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		ywh0yvrTQx3cHqZNevZvRW2XG1k=
+		</data>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		BhhmGLFVgIJl1NNBpMUskv5OxBk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		5UTi4UHHwfU+ppZAG8f9UCBgB6A=
+		</data>
+		<key>build.sh</key>
+		<data>
+		yCHzGdUMbPLfaekuwsU60g87pfs=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/SwiftCoreExtensions-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			n8x5nxrapD8zHJQqzPQAXHMMBjc=
+			</data>
 			<key>hash2</key>
 			<data>
-			p/o4hl+ACIKKfTSPeYEIS1V8bJ89tZdcC0e7074iWIg=
+			kVGxPa2+vvznFG4g9stCjl2FhV9PGMXgxh2g02WaJYo=
 			</data>
 		</dict>
 		<key>Headers/SwiftCoreExtensions.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			V4TeFZzF6Hz+NF6Z0PAurG3D13w=
+			</data>
 			<key>hash2</key>
 			<data>
 			sVLXJ57yr3glc0XjWT7KMq4na7FkHnWdV1aa0pim2qM=
 			</data>
 		</dict>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ywh0yvrTQx3cHqZNevZvRW2XG1k=
+			</data>
 			<key>hash2</key>
 			<data>
-			/gxNDNyUNBG8WAt25d65WpNO0NQfv79VYLhLki22Kzk=
+			C9+mAMtz/eTTi7SrEeGfGqqNhFmrJMKsK1IsUTunF90=
 			</data>
 		</dict>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			BhhmGLFVgIJl1NNBpMUskv5OxBk=
+			</data>
 			<key>hash2</key>
 			<data>
-			nnuOF02L7JUlhmB1qAEWb8d+udVZx3wq6L7hi4Hcyfw=
+			qGxgD6ZIIgr3dbgKgN+jLUU9fb4tBOlIlZzF13mFTyo=
 			</data>
 		</dict>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PH7e29vjpLFFc60P5D7u8+ijyJs=
+			</data>
 			<key>hash2</key>
 			<data>
-			/gxNDNyUNBG8WAt25d65WpNO0NQfv79VYLhLki22Kzk=
+			qmuOVg7FhT7m8Ue8JeH/ocxOrLVwWUfPbfGRPsMfHLw=
 			</data>
 		</dict>
-		<key>Modules/SwiftCoreExtensions.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kqNuCV6LRgXAKLl0R1E81DrdY58=
+			</data>
 			<key>hash2</key>
 			<data>
-			nnuOF02L7JUlhmB1qAEWb8d+udVZx3wq6L7hi4Hcyfw=
+			JAS5BD+yHvOlSaR5Za50rqsn2z68iwh53U3KLtfGyso=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PH7e29vjpLFFc60P5D7u8+ijyJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			qmuOVg7FhT7m8Ue8JeH/ocxOrLVwWUfPbfGRPsMfHLw=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kqNuCV6LRgXAKLl0R1E81DrdY58=
+			</data>
+			<key>hash2</key>
+			<data>
+			JAS5BD+yHvOlSaR5Za50rqsn2z68iwh53U3KLtfGyso=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ywh0yvrTQx3cHqZNevZvRW2XG1k=
+			</data>
+			<key>hash2</key>
+			<data>
+			C9+mAMtz/eTTi7SrEeGfGqqNhFmrJMKsK1IsUTunF90=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BhhmGLFVgIJl1NNBpMUskv5OxBk=
+			</data>
+			<key>hash2</key>
+			<data>
+			qGxgD6ZIIgr3dbgKgN+jLUU9fb4tBOlIlZzF13mFTyo=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ywh0yvrTQx3cHqZNevZvRW2XG1k=
+			</data>
+			<key>hash2</key>
+			<data>
+			C9+mAMtz/eTTi7SrEeGfGqqNhFmrJMKsK1IsUTunF90=
+			</data>
+		</dict>
+		<key>Modules/SwiftCoreExtensions.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BhhmGLFVgIJl1NNBpMUskv5OxBk=
+			</data>
+			<key>hash2</key>
+			<data>
+			qGxgD6ZIIgr3dbgKgN+jLUU9fb4tBOlIlZzF13mFTyo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5UTi4UHHwfU+ppZAG8f9UCBgB6A=
+			</data>
 			<key>hash2</key>
 			<data>
 			GrQ5rJfaabYbBD6UgoEo8pw30IsEVKsVnBdvlFN+cHQ=
+			</data>
+		</dict>
+		<key>build.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yCHzGdUMbPLfaekuwsU60g87pfs=
+			</data>
+			<key>hash2</key>
+			<data>
+			7Edv0z4jr2ZbUGN8V0fKLJdZykapU84Ki0u8+Myb0nw=
 			</data>
 		</dict>
 	</dict>
