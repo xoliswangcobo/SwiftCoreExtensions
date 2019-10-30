@@ -1,0 +1,11 @@
+framework module SwiftCoreExtensions {
+  umbrella header "SwiftCoreExtensions.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftCoreExtensions.Swift {
+    header "SwiftCoreExtensions-Swift.h"
+    requires objc
+}
